@@ -1,0 +1,1 @@
+# Optimal-Estimation-of-Solar-Radiation-on-Flat-Surfaces-using-Artificial-Neural-Networks
